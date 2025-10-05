@@ -80,4 +80,3 @@ The PCA plot demonstrates how two principal components can capture the majority 
 
 ---
 
-Would you like me to add a **Results section** with a short explanation of what the plots mean (so it looks like a complete ML case study on GitHub)?
